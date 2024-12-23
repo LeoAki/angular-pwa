@@ -18,7 +18,7 @@ const payload = JSON.stringify({
     "icon": "https://cdn.icon-icons.com/icons2/836/PNG/96/Youtube_icon-icons.com_66802.png",
     "data": {
       "onActionClick": {
-        "default": {"operation": "openWindow", "url": "https://www.youtube.com/channel/UCLZX5mWyQ0v1Z4ssk9uJw-g"}
+        "default": {"operation": "openWindow", "url": "https://www.youtube.com/watch?v=xMtuVP8Mj4o"}
       }
     }
   }
