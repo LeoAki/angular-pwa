@@ -7,7 +7,7 @@ const VAPID = {
   privateKey: "xyy6ZlnDbJjyV1Igh6MbTjkuozKRuqi5h6hwCzoKV6A",
 };
 webpush.setVapidDetails(
-  "email:demo@tudomain.pe",
+  "mailto:demo@tudomain.pe",
   VAPID.publicKey,
   VAPID.privateKey
 );
